@@ -1,0 +1,18 @@
+.container{
+    width: 44%;
+    border: 1px solid #bbb;
+    border-radius: 50px 0;
+}
+.quote{
+    color: #404040;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.quote-author{
+    padding-right: 32px;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: right;
+    color: #6f6767;
+}
